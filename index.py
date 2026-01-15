@@ -22,4 +22,4 @@ else:
         z=(-c+math.sqrt(delta))/(2*b)
         print("nous avons deux solution qui son"+" "+str(y)+" "+"et "+str(z))
     else:
-        print("IL YA Pas de solution")    
+        print("IL YA aucune solution dans R")    
